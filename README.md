@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- SQL
+- .NET 
+
+- HTML5
+- CSS
+- Javascript
+
 <!--
 **alonsogza/alonsogza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
