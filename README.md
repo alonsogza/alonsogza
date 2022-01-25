@@ -1,11 +1,8 @@
-### Hi there 👋
+### Hola, que tal, soy Alonso Garza 👋 me dedico al desarrollo web, me facina y me apasiona el desarrollo, actualmente como backend uso base de datos relacionada SQL en cuanto al frontend visual studio .NET con salida en HTML, CSS, Bootstrap y Javascript.
 
-- SQL
-- .NET 
+⚡ SQL ⚡ .NET ⚡ HTML5 ⚡ CSS ⚡ Bootstrap ⚡ Javascript
 
-- HTML5
-- CSS
-- Javascript
+:pushpin: Aprendiendo VueJS
 
 <!--
 **alonsogza/alonsogza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
