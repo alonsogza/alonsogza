@@ -4,6 +4,8 @@
 
 :pushpin: Aprendiendo VueJS
 
+:pushpin: MongoDB sin aplicarlo en la vida real.
+
 <!--
 **alonsogza/alonsogza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
