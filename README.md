@@ -1,7 +1,7 @@
 <h1 align="center">Hola, 👋, que tal, soy Alonso Garza</h1>
 <h3 align="center">Me dedico al desarrollo web, me facina y me apasiona el desarrollo, actualmente como backend uso base de datos relacionada SQL en cuanto al frontend visual studio .NET con salida en HTML, CSS, Bootstrap y Javascript. </h3>
 
-<h3>Estoy aprendiendo VueJS</h3>
+<h3> :rocket: Estoy aprendiendo <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="20" height="20"/> </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
